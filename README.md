@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Let's Build Anonymously 🚀</h1>
+<p align="center"><strong>👨‍💻 Full Stack Developer | 🧠 AI/ML Explorer | 🛡 Cybersecurity @ Manipal</strong></p>
 
-<!--
-**rudraa2005/rudraa2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Student+at+Manipal+Institute+of+Technology;CS+%7C+CyberSecurity+%7C+AI%2FFinance;Full-Stack+Developer;Let's+build+great+things!" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hi, I'm Rudranil Bhattacharya!
+
+- 🎓 CS (Cybersecurity) @ Manipal Institute of Technology  
+- 🛠️ Skilled in **Full Stack Development**, building powerful apps using **Flask**, **React**, **Firebase**, and **Tailwind CSS**
+- 🧠 Exploring the intersection of **Finance + AI/ML**
+- 🚀 Currently building:
+  - 💹 Demo Stock Trading App (Flask + Firebase)
+- 🤝 Open to exciting collaborations, hackathons, or mentorship
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourname) | [Email](mailto:your@email.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudraa2005&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraa2005&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</p>
+
+---
+
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudranil-bhattacharya-278672208/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:rudranilms7@gmailcom"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/rudraa2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coder GIF">
+</p>
+
+---
+
+<p align="center">
+  <i>“Your career grows in public. So code, share, repeat.”</i>
+</p>
