@@ -1,8 +1,10 @@
-<h1 align="center">Let's Build Anonymously 🚀</h1>
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
+
+<h1 align="center"> Welcome to my GitHub🚀</h1>
 <p align="center"><strong>👨‍💻 Full Stack Developer | 🧠 AI/ML Explorer | 🛡 Cybersecurity @ Manipal</strong></p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Student+at+Manipal+Institute+of+Technology;CS+%7C+CyberSecurity+%7C+AI%2FFinance;Full-Stack+Developer;Let's+build+great+things!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Student+at+Manipal+Institute+of+Technology;CS+%7C+CyberSecurity+%7C+AI+%7C+Finance;Full-Stack+Developer;Let's+build+great+things!" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -12,8 +14,6 @@
 - 🎓 CS (Cybersecurity) @ Manipal Institute of Technology  
 - 🛠️ Skilled in **Full Stack Development**, building powerful apps using **Flask**, **React**, **Firebase**, and **Tailwind CSS**
 - 🧠 Exploring the intersection of **Finance + AI/ML**
-- 🚀 Currently building:
-  - 💹 Demo Stock Trading App (Flask + Firebase)
 - 🤝 Open to exciting collaborations, hackathons, or mentorship
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourname) | [Email](mailto:your@email.com)
 
@@ -41,6 +41,13 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
 </p>
 
 ---
