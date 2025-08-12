@@ -12,10 +12,10 @@
 ### 👋 Hi, I'm Rudranil Bhattacharya!
 
 - 🎓 CS (Cybersecurity) @ Manipal Institute of Technology  
-- 🛠️ Skilled in **Full Stack Development**, building powerful apps using **Flask**, **React**, **Firebase**, and **Tailwind CSS**
+- 🛠️ Skilled in **Full Stack Development**
 - 🧠 Exploring the intersection of **Finance + AI/ML**
 - 🤝 Open to exciting collaborations, hackathons, or mentorship
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourname) | [Email](mailto:your@email.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rudranil-bhattacharya-278672208/) | [Email](mailto:rudranilms7@gmail.com)
 
 ---
 
