@@ -4,7 +4,7 @@
 <p align="center"><strong>👨‍💻 Full Stack Developer | 🧠 AI/ML Explorer | 🛡 Cybersecurity @ Manipal</strong></p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Student+at+Manipal+Institute+of+Technology;CS+%7C+CyberSecurity+%7C+AI+%7C+Finance;Full-Stack+Developer;Let's+build+great+things!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Manipal+Institute+of+Technology;CS+%7C+CyberSecurity+%7C+AI+%7C+Finance;Full-Stack+Developer;Let's+build+great+things!" alt="Typing SVG" /></a>
 </p>
 
 ---
