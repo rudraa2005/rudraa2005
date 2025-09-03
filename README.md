@@ -1,10 +1,10 @@
 
 
 <h1 align="center"> Welcome to my GitHub🚀</h1>
-<p align="center"><strong>👨‍💻 Full Stack Developer | 🧠 AI/ML Explorer | 🛡 Cybersecurity @ Manipal</strong></p>
+<p align="center"><strong>👨‍💻 Baackend Developer | 🧠 AI/ML | 🛡 Cybersecurity @ Manipal</strong></p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Manipal+Institute+of+Technology;CS+%7C+CyberSecurity+%7C+AI+%7C+Finance;Full-Stack+Developer;Let's+build+great+things!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Manipal+Institute+of+Technology;CS+%7C+CyberSecurity+%7C+AI;Backend+Developer;Let's+build+great+things!" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -12,8 +12,7 @@
 ### 👋 Hi, I'm Rudranil Bhattacharya!
 
 - 🎓 CS (Cybersecurity) @ Manipal Institute of Technology  
-- 🛠️ Skilled in **Full Stack Development**
-- 🧠 Exploring the intersection of **Finance + AI/ML**
+- 🛠️ Skilled in **Backend Development**
 - 🤝 Open to exciting collaborations, hackathons, or mentorship
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rudranil-bhattacharya-278672208/) | [Email](mailto:rudranilms7@gmail.com)
 
@@ -37,7 +36,6 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -47,6 +45,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
+  
 
 </p>
 
