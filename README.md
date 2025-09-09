@@ -1,7 +1,7 @@
 
 
 <h1 align="center"> Welcome to my GitHub🚀</h1>
-<p align="center"><strong>👨‍💻 Baackend Developer | 🧠 AI/ML | 🛡 Cybersecurity @ Manipal</strong></p>
+<p align="center"><strong>👨‍💻 Backend Developer | 🧠 AI/ML | 🛡 Cybersecurity @ Manipal</strong></p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Manipal+Institute+of+Technology;CS+%7C+CyberSecurity+%7C+AI;Backend+Developer;Let's+build+great+things!" alt="Typing SVG" /></a>
