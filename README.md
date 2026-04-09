@@ -21,7 +21,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="![rudraa2005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudraa2005&theme=vue-dark&hide_border=true)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraa2005&theme=vue-dark&hide_border=true" />
 </p>
 
 <p align="center">
