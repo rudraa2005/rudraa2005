@@ -8,11 +8,9 @@
 
 ## What I'm Building Toward
 
-I'm not here to collect certificates or clone tutorials.
-
 I'm going deep on the systems that actually matter — Linux internals, backend
 engineering, container infrastructure, distributed systems, and security tooling.
-Long-term goal: build and secure AI infrastructure at the systems level.
+
 
 Currently focused on:
 - Linux internals and systems programming
