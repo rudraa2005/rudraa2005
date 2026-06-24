@@ -27,8 +27,8 @@ Currently focused on:
 
 | Layer | Tools |
 |---|---|
-| Languages | Python, C, C++, Java, Golang |
-| Infra | Docker, Linux |
+| Languages | Python, C, C++, Java, Golang, JavaScript |
+| Infra | Docker, Linux, Kubernetes |
 | Security | Fundamentals — CTFs, networking, protocol analysis |
 | Version Control | Git / GitHub |
 
