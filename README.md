@@ -1,51 +1,204 @@
-<h1 align="center">Rudranil Bhattacharya</h1>
+# <div align="center">
+
+# Rudranil Bhattacharya
+
+```text
+$ ssh rudranil@github
+
+Authenticating...
+Authentication successful.
+
+Welcome to RudranilOS.
+
+Last login: Wed Aug 05 17:52 IST
+```
+
+**Backend • Infrastructure • Linux • Security Engineering**
+
+</div>
+
+---
+
+### `rudranil@github:~$ whoami`
+
+```text
+Cybersecurity student at Manipal Institute of Technology.
+
+Interested in understanding how computers actually work beneath
+applications.
+
+Focused on backend engineering, Linux internals, networking,
+container infrastructure, distributed systems and security.
+
+Goal:
+→ Become a Platform / Infrastructure Engineer.
+```
+
+---
+
+### `rudranil@github:~$ hostnamectl`
+
+```yaml
+Hostname: github
+OS: Linux
+Shell: zsh
+Editor: VS Code
+
+Languages:
+  - Go
+  - C++
+  - C
+  - Python
+  - Java
+  - JavaScript
+
+Tools:
+  - Docker
+  - Kubernetes
+  - Git
+  - Linux
+```
+
+---
+
+### `rudranil@github:~$ ls interests/`
+
+```text
+backend/
+linux/
+networking/
+ebpf/
+kubernetes/
+distributed-systems/
+security/
+observability/
+open-source/
+```
+
+---
+
+### `rudranil@github:~$ tree ~/projects`
+
+```text
+projects
+├── backend
+│   ├── grpc
+│   ├── authentication
+│   └── distributed-services
+│
+├── linux
+│   ├── networking
+│   ├── kernel
+│   └── system-programming
+│
+├── kubernetes
+│   ├── controllers
+│   ├── networking
+│   └── monitoring
+│
+├── ebpf
+│   ├── tracing
+│   ├── tc-hooks
+│   └── observability
+│
+└── security
+    ├── ctf
+    ├── protocol-analysis
+    └── threat-detection
+```
+
+---
+
+### `rudranil@github:~$ systemctl status learning.service`
+
+```text
+● learning.service
+
+Status: active (running)
+
+Loaded modules
+
+✓ Linux
+✓ Networking
+✓ Docker
+✓ Go Backend
+✓ Kubernetes
+
+Loading...
+
+• eBPF
+• Distributed Systems
+• Platform Engineering
+• Detection Engineering
+```
+
+---
+
+### `rudranil@github:~$ top`
+
+```text
+PID     PROCESS                           CPU
+──────────────────────────────────────────────
+1024    Reading Linux docs                27%
+1182    Building Go services              24%
+1320    Kubernetes internals              19%
+1456    Networking                        15%
+1608    eBPF                              10%
+1732    Security research                  5%
+```
+
+---
+
+### `rudranil@github:~$ skills`
+
 <p align="center">
-  CS (Cybersecurity) · Manipal Institute of Technology<br/>
-  Backend · Infrastructure · Security Engineering
+<img src="https://skillicons.dev/icons?i=go,cpp,c,python,java,javascript,linux,bash,docker,kubernetes,postgres,git,github" />
 </p>
 
 ---
 
-## What I'm Building Toward
-
-I'm going deep on the systems that actually matter — Linux internals, backend
-engineering, container infrastructure, distributed systems, and security tooling.
-
-
-Currently focused on:
-- Linux internals and systems programming
-- Backend engineering 
-- Container infrastructure and Kubernetes
-- Security tooling and threat detection
-- Distributed systems fundamentals
-
----
-
-## Current Stack
-
-| Layer | Tools |
-|---|---|
-| Languages | Python, C, C++, Java, Golang, JavaScript |
-| Infra | Docker, Linux, Kubernetes |
-| Security | Fundamentals — CTFs, networking, protocol analysis |
-| Version Control | Git / GitHub |
-
-
----
-
-## GitHub Stats
+### `rudranil@github:~$ github stats`
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraa2005&theme=vue-dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rudraa2005&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraa2005&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraa2005
-&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraa2005&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Contact
+### `rudranil@github:~$ cat mission.txt`
 
-[LinkedIn](https://www.linkedin.com/in/rudranil-bhattacharya-278672208/) ·
-[Email](mailto:rudranilms7@gmail.com)
+```text
+Learn computers from the kernel upward.
+
+Build scalable backend systems.
+
+Understand distributed infrastructure.
+
+Contribute to cloud-native open source.
+
+Never stop learning.
+```
+
+---
+
+### `rudranil@github:~$ ./connect`
+
+```text
+LinkedIn → linkedin.com/in/rudranil-bhattacharya-278672208
+Email    → rudranilms7@gmail.com
+GitHub   → github.com/rudraa2005
+```
+
+---
+
+```text
+rudranil@github:~$ exit
+
+logout
+Connection to github closed.
+```
