@@ -1,204 +1,30 @@
-# <div align="center">
-
 # Rudranil Bhattacharya
 
-```text
-$ ssh rudranil@github
+**Backend engineering · Linux internals · Security tooling**
 
-Authenticating...
-Authentication successful.
-
-Welcome to RudranilOS.
-
-Last login: Wed Aug 05 17:52 IST
-```
-
-**Backend • Infrastructure • Linux • Security Engineering**
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/rudranil-bhattacharya-278672208/) · [Email](mailto:rudranilms7@gmail.com)
 
 ---
 
-### `rudranil@github:~$ whoami`
+I'm a cybersecurity student at Manipal Institute of Technology. I like building tools that make systems easier to understand, operate, and secure.
 
-```text
-Cybersecurity student at Manipal Institute of Technology.
+### Selected work
 
-Interested in understanding how computers actually work beneath
-applications.
+- **[Prompt Injection Firewall](https://github.com/rudraa2005/firewall)** — A Go reverse proxy that inspects LLM requests and responses for injection attempts and canary leaks.
+- **[Distributed WAL](https://github.com/rudraa2005/distributed_wal)** — A write-ahead log in Go with segmented storage, group commit, and crash recovery.
+- **[eBPF Exec Monitor](https://github.com/rudraa2005/proc-monitoring-eBPF)** — A Linux process execution monitor using eBPF, libbpf, and kernel tracepoints.
 
-Focused on backend engineering, Linux internals, networking,
-container infrastructure, distributed systems and security.
+### What I'm exploring
 
-Goal:
-→ Become a Platform / Infrastructure Engineer.
-```
+Distributed systems · Kubernetes · eBPF · Infrastructure security
 
----
-
-### `rudranil@github:~$ hostnamectl`
-
-```yaml
-Hostname: github
-OS: Linux
-Shell: zsh
-Editor: VS Code
-
-Languages:
-  - Go
-  - C++
-  - C
-  - Python
-  - Java
-  - JavaScript
-
-Tools:
-  - Docker
-  - Kubernetes
-  - Git
-  - Linux
-```
-
----
-
-### `rudranil@github:~$ ls interests/`
-
-```text
-backend/
-linux/
-networking/
-ebpf/
-kubernetes/
-distributed-systems/
-security/
-observability/
-open-source/
-```
-
----
-
-### `rudranil@github:~$ tree ~/projects`
-
-```text
-projects
-├── backend
-│   ├── grpc
-│   ├── authentication
-│   └── distributed-services
-│
-├── linux
-│   ├── networking
-│   ├── kernel
-│   └── system-programming
-│
-├── kubernetes
-│   ├── controllers
-│   ├── networking
-│   └── monitoring
-│
-├── ebpf
-│   ├── tracing
-│   ├── tc-hooks
-│   └── observability
-│
-└── security
-    ├── ctf
-    ├── protocol-analysis
-    └── threat-detection
-```
-
----
-
-### `rudranil@github:~$ systemctl status learning.service`
-
-```text
-● learning.service
-
-Status: active (running)
-
-Loaded modules
-
-✓ Linux
-✓ Networking
-✓ Docker
-✓ Go Backend
-✓ Kubernetes
-
-Loading...
-
-• eBPF
-• Distributed Systems
-• Platform Engineering
-• Detection Engineering
-```
-
----
-
-### `rudranil@github:~$ top`
-
-```text
-PID     PROCESS                           CPU
-──────────────────────────────────────────────
-1024    Reading Linux docs                27%
-1182    Building Go services              24%
-1320    Kubernetes internals              19%
-1456    Networking                        15%
-1608    eBPF                              10%
-1732    Security research                  5%
-```
-
----
-
-### `rudranil@github:~$ skills`
-
+### GitHub activity
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,cpp,c,python,java,javascript,linux,bash,docker,kubernetes,postgres,git,github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rudraa2005&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;hide_rank=true" alt="Rudranil's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraa2005&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=tokyonight" alt="Languages used across Rudranil's public repositories" />
 </p>
 
----
-
-### `rudranil@github:~$ github stats`
-
+### Languages & tools
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rudraa2005&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraa2005&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=go,c,cpp,python,java,bash,linux,docker,kubernetes&amp;perline=9" alt="Go, C, C++, Python, Java, Bash, Linux, Docker, Kubernetes" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rudraa2005&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### `rudranil@github:~$ cat mission.txt`
-
-```text
-Learn computers from the kernel upward.
-
-Build scalable backend systems.
-
-Understand distributed infrastructure.
-
-Contribute to cloud-native open source.
-
-Never stop learning.
-```
-
----
-
-### `rudranil@github:~$ ./connect`
-
-```text
-LinkedIn → linkedin.com/in/rudranil-bhattacharya-278672208
-Email    → rudranilms7@gmail.com
-GitHub   → github.com/rudraa2005
-```
-
----
-
-```text
-rudranil@github:~$ exit
-
-logout
-Connection to github closed.
-```
